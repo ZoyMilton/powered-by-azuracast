@@ -19,6 +19,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Bolivia
 - [Radio Chuquisaca 95.2 FM](https://radiochuquisaca.live.com.bo/)
 - [TOP Activa 99.5 FM](https://autodj.live/public/radio_top_activa)
+- [TOP Zoy Milton FM](https://zoymilton.github.io/zoymilton)
 
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
